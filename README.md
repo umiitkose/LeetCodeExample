@@ -19,7 +19,7 @@ I will try leetcode problem solution every week and share in this repo.
     <td>70</td>
     <td>Climbing Star</td>
     <td><a href="https://github.com/umiitkose/LeetCodeExample/blob/master/src/main/java/com/umiitkose/number/easy/quiz70/ClimbingStar.java" target="_blank">ClimbingStar.java</td>
-    <td><a href="https://leetcode.com/problems/climbing-stairs" target="_blank">Climbin Star</a></td>
+    <td><a href="https://leetcode.com/problems/climbing-stairs" target="_blank">Climbing Star</a></td>
   </tr>
   <tr>
     <td>Array</td>
