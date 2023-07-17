@@ -13,10 +13,10 @@ I will try leetcode problem solution every week and share in this repo.
     <th>Java Link</th>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>Number</td>
+    <td>Easy</td>
+    <td>70</td>
+    <td>Climbing Star</td>
+    <td><a href="https://github.com/umiitkose/LeetCodeExample/blob/master/src/main/java/com/umiitkose/number/easy/quiz70/ClimbingStar.java" target="_blank">ClimbingStar.java</td>
   </tr>
 </table>
