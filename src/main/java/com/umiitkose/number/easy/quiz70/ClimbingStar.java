@@ -1,6 +1,7 @@
 package com.umiitkose.number.easy.quiz70;
 
 public class ClimbingStar {
+    //Fibonacci mantığında düşün..
 
     public int climbStairs(int n) {
         int toplam1 = 1;
