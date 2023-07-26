@@ -50,7 +50,7 @@ I will try leetcode problem solution every week and share in this repo.
     <td>Easy</td>
     <td>1897</td>
     <td>RedistributeCharactersToMAkeAllStringsEqual</td>
-    <td><a href="https://github.com/umiitkose/LeetCodeExample/blob/master/src/main/java/com/umiitkose/strings/easy/quiz1897/RedistributeCharactersToMakeAllStringsEqual.java" target="_blank">MergeSortedArray.java</td>
+    <td><a href="https://github.com/umiitkose/LeetCodeExample/blob/master/src/main/java/com/umiitkose/strings/easy/quiz1897/RedistributeCharactersToMakeAllStringsEqual.java" target="_blank">RedistributeCharactersToMAkeAllStringsEqual.java</td>
     <td><a href="https://leetcode.com/problems/redistribute-characters-to-make-all-strings-equal/" target="_blank">Redistribute Characters To MAke All Strings Equal</td>
   </tr>
   
