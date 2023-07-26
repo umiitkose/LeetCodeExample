@@ -43,7 +43,16 @@ I will try leetcode problem solution every week and share in this repo.
     <td>88</td>
     <td>Merge Sorted ARRAY</td>
     <td><a href="https://github.com/umiitkose/LeetCodeExample/blob/master/src/main/java/com/umiitkose/array/easy/quiz88/MergeSortedArray.java" target="_blank">MergeSortedArray.java</td>
-    <td><a href="https://leetcode.com/problems/merge-sorted-array/description/" target="_blank">Astreoid Collision</td>
+    <td><a href="https://leetcode.com/problems/merge-sorted-array/description/" target="_blank">Merge Sorted Array</td>
   </tr>
+      <tr>
+    <td>String</td>
+    <td>Easy</td>
+    <td>1897</td>
+    <td>RedistributeCharactersToMAkeAllStringsEqual</td>
+    <td><a href="https://github.com/umiitkose/LeetCodeExample/blob/master/src/main/java/com/umiitkose/strings/easy/quiz1897/RedistributeCharactersToMakeAllStringsEqual.java" target="_blank">MergeSortedArray.java</td>
+    <td><a href="https://leetcode.com/problems/redistribute-characters-to-make-all-strings-equal/" target="_blank">Redistribute Characters To MAke All Strings Equal</td>
+  </tr>
+  
     
 </table>
