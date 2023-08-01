@@ -58,7 +58,7 @@ I will try leetcode problem solution every week and share in this repo.
     <td>Medium</td>
     <td>77</td>
     <td>Combinations</td>
-    <td><a href=" https://github.com/umiitkose/LeetCodeExample/blob/master/src/main/java/com/umiitkose/array/medium/quiz77/Combinations.java" target="_blank">Combinations.java</td>
+    <td><a href="https://github.com/umiitkose/LeetCodeExample/blob/master/src/main/java/com/umiitkose/array/medium/quiz77/Combinations.java" target="_blank">Combinations.java</td>
     <td><a href="https://leetcode.com/problems/combinations/description/" target="_blank">Combinations</td>
   </tr>
   
