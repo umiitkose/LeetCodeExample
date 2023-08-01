@@ -27,5 +27,9 @@ public class Main {
         gruplar.forEach((groupId, dosyaListesi) -> {
             System.out.println("Group " + groupId + ": " + dosyaListesi);
         });
+
+
     }
+
+
 }
