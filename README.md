@@ -53,6 +53,14 @@ I will try leetcode problem solution every week and share in this repo.
     <td><a href="https://github.com/umiitkose/LeetCodeExample/blob/master/src/main/java/com/umiitkose/strings/easy/quiz1897/RedistributeCharactersToMakeAllStringsEqual.java" target="_blank">RedistributeCharactersToMAkeAllStringsEqual.java</td>
     <td><a href="https://leetcode.com/problems/redistribute-characters-to-make-all-strings-equal/" target="_blank">Redistribute Characters To MAke All Strings Equal</td>
   </tr>
+      <tr>
+    <td>Array</td>
+    <td>Medium</td>
+    <td>77</td>
+    <td>Combinations</td>
+    <td><a href=" https://github.com/umiitkose/LeetCodeExample/blob/master/src/main/java/com/umiitkose/array/medium/quiz77/Combinations.java" target="_blank">Combinations.java</td>
+    <td><a href="https://leetcode.com/problems/combinations/description/" target="_blank">Combinations</td>
+  </tr>
   
-    
+   
 </table>
