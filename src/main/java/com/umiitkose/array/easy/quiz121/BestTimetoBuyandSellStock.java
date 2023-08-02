@@ -31,7 +31,22 @@ public class BestTimetoBuyandSellStock {
         return transaction;
 
     }
-
+/** Saçma düşünceye gerek yokmuş :)
+ *
+ * int buyprice = Integer.MAX_VALUE;
+ *     int op = 0;// overall profit
+ *     int pist = 0; // profit if sold today****
+ *     for(int i = 0; i < prices.length; i++){
+ *         if(prices[i] < buyprice){
+ *             buyprice = prices[i];
+ *         }
+ *         pist = prices[i] - buyprice;
+ *         if(op < pist){
+ *             op = pist;
+ *         }
+ *     }
+ *     return op;
+ *     */
 
 }
 
