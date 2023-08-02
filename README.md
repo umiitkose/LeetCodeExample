@@ -61,6 +61,14 @@ I will try leetcode problem solution every week and share in this repo.
     <td><a href="https://github.com/umiitkose/LeetCodeExample/blob/master/src/main/java/com/umiitkose/array/medium/quiz77/Combinations.java" target="_blank">Combinations.java</td>
     <td><a href="https://leetcode.com/problems/combinations/description/" target="_blank">Combinations</td>
   </tr>
+     <tr>
+    <td>Array</td>
+    <td>Easy</td>
+    <td>121</td>
+    <td>Best Time to Buy and Sell Stock</td>
+    <td><a href="https://github.com/umiitkose/LeetCodeExample/blob/master/src/main/java/com/umiitkose/array/easy/quiz121/BestTimetoBuyandSellStock.java" target="_blank">BestTimetoBuyandSellStock.java</td>
+    <td><a href="https://leetcode.com/problems/best-time-to-buy-and-sell-stock/" target="_blank">Best Time to Buy and Sell Stock</td>
+  </tr>
   
    
 </table>
