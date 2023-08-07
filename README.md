@@ -69,6 +69,13 @@ I will try leetcode problem solution every week and share in this repo.
     <td><a href="https://github.com/umiitkose/LeetCodeExample/blob/master/src/main/java/com/umiitkose/array/easy/quiz121/BestTimetoBuyandSellStock.java" target="_blank">BestTimetoBuyandSellStock.java</td>
     <td><a href="https://leetcode.com/problems/best-time-to-buy-and-sell-stock/" target="_blank">Best Time to Buy and Sell Stock</td>
   </tr>
-  
+      <tr>
+    <td>Array</td>
+    <td>Medium</td>
+    <td>74</td>
+    <td>Search2dMatrix</td>
+    <td><a href="https://github.com/umiitkose/LeetCodeExample/blob/master/src/main/java/com/umiitkose/array/medium/quiz74/Search2DMatrix.java" target="_blank">Search2DMatrix.java</td>
+    <td><a href="https://leetcode.com/problems/search-a-2d-matrix/description/" target="_blank">Search 2D Matrix</td>
+  </tr>
    
 </table>
