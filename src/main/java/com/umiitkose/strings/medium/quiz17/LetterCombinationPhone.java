@@ -17,9 +17,17 @@ public class LetterCombinationPhone {
         letterMap.put(8, "tuv");
         letterMap.put(9, "wxyz");
         letterMap.put(0, " ");
-
         return letterMap.get(digit);
     }
+
+    public List<String> letterCombinations(String digits) {
+        if ("".equals(digits))
+            return new ArrayList<>();
+
+
+        return new ArrayList<>();
+    }
+
 
     public static void main(String[] args) {
 
@@ -35,14 +43,6 @@ public class LetterCombinationPhone {
             }
         }
 
-    }
-
-    public List<String> letterCombinations(String digits) {
-        if ("".equals(digits))
-            return new ArrayList<>();
-
-
-        return new ArrayList<>();
     }
 }
 

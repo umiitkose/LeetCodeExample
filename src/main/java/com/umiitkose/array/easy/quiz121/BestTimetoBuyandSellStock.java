@@ -8,21 +8,20 @@ public class BestTimetoBuyandSellStock {
             return transaction;
         }
         int buy = prices[0];
-        int sell = prices[1];
-        int temp = 0;
+        int sell;
 
         int i = 0;
         do {
+            if (i < prices.length - 1) {
+                sell = prices[i + 1];
 
-            if (buy >= sell) {
-                if (i < prices.length - 1)
-                    sell = prices[i + 1];
-                buy = prices[i];
+                if (buy >= sell) {
 
-            } else {
-                transaction = Math.max(transaction, sell - buy);
-                if (i < prices.length - 1) {
-                    sell = prices[i + 1];
+                    buy = prices[i];
+
+                } else {
+                    transaction = Math.max(transaction, sell - buy);
+
                 }
             }
 
