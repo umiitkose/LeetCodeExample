@@ -1,4 +1,4 @@
-package com.umiitkose.array.easy.quiz121;
+package com.umiitkose.top150.arrayandstring;
 
 public class BestTimetoBuyandSellStock {
     public int maxProfit(int[] prices) {
