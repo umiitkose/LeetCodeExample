@@ -8,6 +8,7 @@ public class BestTimetoBuyandSellStock {
             return transaction;
         }
         int buy = prices[0];
+
         int sell;
 
         int i = 0;
@@ -21,6 +22,7 @@ public class BestTimetoBuyandSellStock {
 
                 } else {
                     transaction = Math.max(transaction, sell - buy);
+
 
                 }
             }
