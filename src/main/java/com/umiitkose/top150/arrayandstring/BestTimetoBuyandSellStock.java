@@ -2,7 +2,6 @@ package com.umiitkose.top150.arrayandstring;
 
 public class BestTimetoBuyandSellStock {
     public int maxProfit(int[] prices) {
-
         int transaction = 0;
         if (prices.length < 2) {
             return transaction;

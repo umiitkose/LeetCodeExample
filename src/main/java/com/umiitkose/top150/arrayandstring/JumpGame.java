@@ -12,8 +12,6 @@ public class JumpGame {
         int length = nums.length;
         for (int num : nums) {
             jump = num;
-
-
         }
         return false;
     }

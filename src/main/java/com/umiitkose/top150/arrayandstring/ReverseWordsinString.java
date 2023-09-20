@@ -11,9 +11,7 @@ public class ReverseWordsinString {
 
     public String reverseWords(String s) {
         String[] strings = s.trim().split(" ");
-
         StringBuilder stringBuilder = new StringBuilder();
-
         for (int i = strings.length - 1; i > -1; i--) {
             if (!strings[i].isEmpty()) {
                 stringBuilder.append(strings[i]).append(" ");

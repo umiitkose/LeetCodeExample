@@ -3,8 +3,6 @@ package com.umiitkose.top150.arrayandstring;
 public class intToRoman {
     public static void main(String[] args) {
         System.out.println(convertIntToRoman(1245));
-
-
     }
 
     private static String convertIntToRoman(int sayi) {

@@ -1,4 +1,4 @@
-package com.umiitkose.number.easy;
+package com.umiitkose.number.easy.quiz1;
 
 import java.util.Arrays;
 import java.util.HashMap;
