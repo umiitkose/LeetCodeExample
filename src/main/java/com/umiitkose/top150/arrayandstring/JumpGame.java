@@ -8,11 +8,26 @@ public class JumpGame {
     }
 
     public boolean canJump(int[] nums) {
-        int jump = 0;
-        int length = nums.length;
-        for (int num : nums) {
-            jump = num;
+        if (nums.length <= 1) {
+            return true;
         }
+        int jump = nums[0];
+        int index = 0;
+        int toplam = 0;
+        for (int i = nums[0] - 1; i < nums.length; i++) {
+            if (nums.length != toplam) {
+                if (jump == 0) {
+                    return false;
+                }
+
+                toplam = jump + index;
+                jump = nums[jump];
+                index = jump;
+            } else {
+                return true;
+            }
+        }
+
         return false;
     }
 
